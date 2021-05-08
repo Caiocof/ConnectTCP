@@ -16,7 +16,7 @@ Python TCP
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in web development!
+Application developed with the objective of training network security techniques in python!
 
   - 💹 **PYTHON**
 
